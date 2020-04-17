@@ -1,0 +1,50 @@
+<link rel="stylesheet" type="text/css" href="style.css">
+<main id="main">
+  <h1 id="title">The Worldly Advice of the Prophet</h1>
+  <p>(when only slightly drunk)</p>
+  <figure id="img-div">
+    <img
+      id="image"
+      src="https://images.unsplash.com/photo-1530344308484-24fda7f90b0d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80"
+      alt="The Prophet with one of his drinking buddies"
+    />
+    <figcaption id="img-caption">
+      The Prophet discusses his prophecies with one of his drinking buddies during a walk. Stone figurines reproduction
+    </figcaption>
+  </figure>
+  <section id="tribute-info">
+    <h3 id="headline">Here's some of his most famous prophecies:</h3>
+    <ul>
+      <li><strong>550</strong> - THe white goat will never die.</li>
+      <li>
+        <strong>784</strong> - Leaves flutter, blossoms shrivel, the empty cup rattles.
+      </li>
+      <li>
+        <strong>820</strong> - He who looks at the stars at dawn will wear the crown.
+      </li>
+      <li>
+        <strong>1231</strong> - One army will not be enough.
+      </li>
+      <li>
+        <strong>1362</strong> -There will be no more magic.
+      </li>
+    </ul>
+    <blockquote
+      cite="https://tvtropes.org/pmwiki/pmwiki.php/Main/MadOracle"
+    >
+      <p>
+        "They tend to speak entirely in metaphor, riddles, vagueries, and oblique poetry."
+      </p>
+      <cite>-- TVTropes on Mad Prophets</cite>
+    </blockquote>
+    <h3>
+      If you want to do go down the rabbit hole, visit this
+      <a
+        id="tribute-link"
+        href="https://tvtropes.org/pmwiki/pmwiki.php/Main/FateAndProphecyTropes"
+        target="_blank"
+        >TVTropes page</a
+      >.
+    </h3>
+  </section>
+</main>
