@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>The Words of the Prophet</h1>
+<h2> (when he was only slightly drunk on Pinnean cider)</h2>
+<p>Massaloom Lore at its finest.</p>
+</body>
+</html>
